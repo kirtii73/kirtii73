@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kirti jirati</h1>
+<h1 align="center">Hi 👋, I'm Kirti Jirati</h1>
 <h3 align="center">I am a Full Stack Web Developer, currently pursuing my Computer Science Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtii73&label=Profile%20views&color=0e75b6&style=flat" alt="kirtii73" /> </p>
