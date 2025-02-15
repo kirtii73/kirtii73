@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 I like to build cool stuff.<br>✍🏻 I write blogs and tutorials to make development a bit easy.<br>⛓️ I am currently learning and exploring Nextjs.<br>🎯 Goal 2024: Become a classy Developer!!</p>
+<p align="left">👩🏻‍💻 I like to build cool stuff.<br>✍🏻 I write blogs and tutorials to make development a bit easy.<br>⛓️ I am currently learning and exploring Nextjs.<br>🎯 Goal 2025: Become a classy Developer!!</p>
 
 ###
 
