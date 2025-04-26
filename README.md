@@ -1,10 +1,10 @@
 <div align="center">
   <img height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
 </div>
-
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=450&lines=⭐⭐⭐+Hey,+I+am+KIRTI+JIRATI!**+👋;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=450&lines=⭐⭐⭐+Hey,+I+am+KIRTI+JIRATI!+👋;Welcome+to+my+GitHub!" />
 </h2>
+
 
 
 <div align="center">
